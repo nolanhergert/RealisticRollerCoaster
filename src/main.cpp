@@ -13,6 +13,17 @@
 
 Adafruit_MPU6050 mpu;
 
+/*
+TODO:
+  * Test mpu6050 works, then remove code
+  * Write down gravity equation, converting accelerometer pitch to cart acceleration
+  * Interface with basic stepper driver for now and ULN2003 fets . Maybe add AccelStepper (https://randomnerdtutorials.com/esp32-stepper-motor-28byj-48-uln2003/)
+  * Mount on car and try it out!
+
+
+*/
+
+
 void setup(void) {
   Serial.begin(115200);
   while (!Serial)
