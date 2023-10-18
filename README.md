@@ -23,9 +23,12 @@ The invention is a cross between a Hot Wheels style track and a scale model of a
   * Designed a compact "car" PCB that:
     * Is approximately the width of a Hot Wheels car and is 1/3 the length. Allows for chaining cars like a roller coaster, which has unique visual effects not able to be seen with one car and allows better traction through corkscrews.
     * Uses 2 or 4 8mm micro stepper motors for precise strong slow motion. Not sure how many I need yet
-      * Unfortunately $1 in quantity?! but $.20 on occasional closeout.
+      * Unfortunately one dollar in quantity?! but 20 cents on occasional closeout.
       * Mechanical stability, etc is untested
       * Need to get a source for cheap but good axles and gear that fits onto it. Have metal ones now that work though. Planning on asking supplier
+
+![image](https://github.com/nolanhergert/realistic-roller-coaster/assets/377502/605ad466-fdf5-4c36-be92-3e8b96d1d16a)
+    * Should fit a LEGO person on it too!
     * Uses an on board accelerometer to respond appropriately to the track angles
     * Uses lithium ion capacitor that should power the car for >3 minutes while charging in <15s and lasting for 50,000 charging cycles
     * Allows for non-touch automatic charging of the device when it returns to the beginning.
