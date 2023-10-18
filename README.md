@@ -1,6 +1,7 @@
 # A Realistic Roller Coaster!
 The invention is a cross between a Hot Wheels style track and a scale model of a roller coaster. Why care?
-  * This demo looks cool! [![3D Printed Powered Roller Coaster](https://img.youtube.com/vi/jkkf6wcAqkc/0.jpg)](https://youtu.be/jkkf6wcAqkc?t=412).
+  * This demo looks cool!
+  * [![3D Printed Powered Roller Coaster](https://img.youtube.com/vi/jkkf6wcAqkc/0.jpg)](https://youtu.be/jkkf6wcAqkc?t=412).
     *  It's cool because it's scaling gravity too, unlike a hot wheels car or using a "push and go" method that ignores the orientation of the car relative to gravity.
   * Visualize / feel / hear the sound of / play with a "real" roller coaster in real life. [Hands Feel Things!](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
     * Hard to emulate with a computer game, of which there are *many* for roller coaster design
