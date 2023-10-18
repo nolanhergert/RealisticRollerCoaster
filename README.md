@@ -19,10 +19,12 @@ The invention is a cross between a Hot Wheels style track and a scale model of a
     * Designed a ball joint coupling between boba straws and LEGO base plates that allow rotation of pole while staying solidly fixed to the base plate. Have more improvements in mind (use 2X2 brick for easier alignment), but have a 3D printed prototype on hand. Current design I think is impossible to injection mold, but pretty easy to 3D print.
     * ![straw_baseplate_coupling](https://github.com/nolanhergert/realistic-roller-coaster/assets/377502/ebc0e187-9980-4845-8b3c-e45043ca668d)
     * Designed coupling between Hot Wheels track and boba straws, also 3D printed.
-
   * Designed a compact "car" PCB that:
     * Is approximately the width of a Hot Wheels car and is 1/3 the length. Allows for chaining cars like a roller coaster, which has unique visual effects not able to be seen with one car and allows better traction through corkscrews.
-    * Uses 8mm micro stepper motors for precise strong slow motion
+    * Uses 2 or 4 8mm micro stepper motors for precise strong slow motion. Not sure how many I need yet
+      * Unfortunately $1 in quantity?! but $.20 on occasional closeout.
+      * Mechanical stability, etc is untested
+      * Need to get a source for cheap but good axles and gear that fits onto it. Have metal ones now that work though. Planning on asking supplier
     * Uses an on board accelerometer to respond appropriately to the track angles
     * Uses lithium ion capacitor that should power the car for >3 minutes while charging in <15s and lasting for 50,000 charging cycles
     * Allows for non-touch automatic charging of the device when it returns to the beginning.
@@ -35,9 +37,9 @@ The invention is a cross between a Hot Wheels style track and a scale model of a
   * Professional firmware developer and have done my own PCB microcontroller projects before. Should not be a problem to write the firmware.
 
 ## Headwinds
-  * Not familiar with mass manufacturing, reliable PCB design and testing,  Area of growth but 
+  * Not familiar with mass manufacturing, reliable PCB design and testing,  Area of growth but I think I can learn and prototype quick.
   * Not sure if it's a toy that people will buy yet. Need to test market and pricing more before committing to mass manufacturing. I would enjoy playing with it though, so I'm building it for myself for now.
-  * Don't have many of the other skills yet required for making a successful product. I do have some time and funding though, planning on Crowd Supply or Kickstarter to evalutate demand and raise funds for production and outsourcing work.
+  * Don't yet have many of the other skills required for making a successful product. I do have *some* free time and funding though, planning on Crowd Supply or Kickstarter to evalutate demand and raise funds for production and outsourcing work.
   * Working on another project too in a completely unrelated field! https://github.com/nolanhergert/HeadlightBlocker
 
 ## "Competition"
