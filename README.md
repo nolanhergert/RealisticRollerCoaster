@@ -24,7 +24,8 @@ The invention is a cross between a Hot Wheels style track and a scale model of a
     * Is approximately the width of a Hot Wheels car and is 1/3 the length. Allows for chaining cars like a roller coaster, which has unique visual effects not able to be seen with one car and allows better traction through corkscrews.
     * Uses 2 or 4 8mm micro stepper motors for precise strong slow motion. Not sure how many I need yet
       * Unfortunately one dollar in quantity?! but 20 cents on occasional closeout.
-      * Mechanical stability, etc is untested
+      * Mechanical stability, etc is untested, but current design is similar to this:
+![image](https://github.com/nolanhergert/realistic-roller-coaster/assets/377502/fa3c49d4-e380-4ff9-9fed-140593c863a0), from https://youtu.be/l_EwxWTXwfc?si=Ew6i_0cxCUXHYGoc&t=148
       * Need to get a source for cheap but good axles and gear that fits onto it. Have metal ones now that work though. Planning on asking supplier
       * It will fit a LEGO person to scale on it too!
       * Uses an on board accelerometer to respond appropriately to the track angles
