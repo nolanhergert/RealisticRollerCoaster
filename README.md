@@ -14,7 +14,7 @@ The invention is a cross between a Hot Wheels style track and a scale model of a
     * The supplier below was able to overmold track onto some flexible metal tape, which is easier to use and manufacture. Want to play with it to see how flexible it is.
     * I might need to increase traction, especially if there are more cars. Planning on using rubbery tires or rubber "treads" and gluing/taping rough sandpaper to track if needed, can be in isolated spots. Surprised that suppliers solution works so well, it must be really light!
   * Designing an easy-to-build scaffolding for mounting track
-    * Trying to go cheap for poles. 12mm boba straws or smaller might work well
+    * Trying to go cheap for poles. 12mm boba straws or smaller might work well. Allows for easy length adjustment by cutting them, although that might add more trouble.
     * Foundation is currently LEGO base plates. Cheap, able to be packed very flat and allow many unique strong mounting points as long as there's not too much diagonal upward force. If you need more strength in a spot, just make the mounting blocks bigger.
       * Sort of similar design is the CDX Blocks roller coaster system. An example of what they can do is here: https://twitter.com/coaster_nation/status/1133577981669117952?lang=he
     * Designed a ball joint coupling between boba straws and LEGO base plates that allow rotation of pole while staying solidly fixed to the base plate. Have more improvements in mind (use 2X2 brick for easier alignment), but have a 3D printed prototype on hand. Current design I think is impossible to injection mold, but pretty easy to 3D print.
