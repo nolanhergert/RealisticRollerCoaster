@@ -30,7 +30,7 @@ void setup(void) {
     delay(10); // will pause Zero, Leonardo, etc until serial console opens
 
   Serial.println("Adafruit MPU6050 test!");
-  
+
   Wire.begin(I2C_DATA, I2C_CLK);
 
   // Try to initialize!
