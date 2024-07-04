@@ -9,6 +9,15 @@ The invention is a cross between a Hot Wheels style track and a scale model of a
   * Discover interesting roller coaster formations quickly.
   * Maybe uncover why triangles are the strongest shape! https://youtu.be/Ofol8YG_uz8
 
+## Target Market
+crickets...
+
+## Product Requirements Document
+
+
+## Design Decisions
+  * It'd be really nice to have a "dumb" baseplate. Have all USB pins go to the car via pogo pins, but that leaves exposed 5V and GND on the track, which can be accidentally shorted unless the pogo pins sink down after use. Magnetic flap thing.
+
 ## Where I'm At
   * Concluded on using magnets and embedded wire as traction method and course following. Made prototypes with cheap iron wire taped onto Hot Wheels track. 
     * The supplier below was able to overmold track onto some flexible metal tape, which is easier to use and manufacture. Want to play with it to see how flexible it is.
