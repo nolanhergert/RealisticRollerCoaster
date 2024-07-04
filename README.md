@@ -17,6 +17,11 @@ crickets...
 
 ## Design Decisions
   * It'd be really nice to have a "dumb" baseplate. Have all USB pins go to the car via pogo pins, but that leaves exposed 5V and GND on the track, which can be accidentally shorted unless the pogo pins sink down after use. Magnetic flap thing.
+  * Needs to both buck down 5V to a current-controlled source for the LIC(s) in one direction and boost the LIC voltage to >10V for the stepper driver in order to provide better torque at high speeds (via overdriving) and lower current losses. 
+    * This is possible using something called a synchronous drive of buck-boost, and can even theoretically use the same components. Just need to wire up and control properly.
+    * Can theoretically control using microcontroller, although you need high current source for driving the mosfets properly (can't just run off of GPIO if high freq). Software controller power supply talk: https://www.youtube.com/watch?v=8iXa01IBPuE
+    * Microcontroller can run off of 5V and LIC, although probably want a linear regulator for accelerometer?
+    * Can 
 
 ## Where I'm At
   * Concluded on using magnets and embedded wire as traction method and course following. Made prototypes with cheap iron wire taped onto Hot Wheels track. 
